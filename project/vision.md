@@ -1,3 +1,7 @@
+# SOS Kuscheltier in Not
+Ein guter Freund gab mir die Idee für dieses Projekt, das ich nun umsetzen möchte.
+
+![Toy](../project/toy.png "Toy")
 # Motivation
 Was ist das schlimmste, was einer Mutter passieren kann?
 Das Kind ist verschwunden und die Mutter kann es nicht wiederfinden.
@@ -5,7 +9,7 @@ Das Kind ist verschwunden und die Mutter kann es nicht wiederfinden.
 Was ist das schlimmste, was einem Kleinkind passieren kann?
 Das Kuscheltier ist verschwunden und das Kind kann es nicht wiederfinden.
 
-Für so ein kleines Wesen ist ein Kuscheltier sehr wichtig. Die Eltern müssen heutzutage beide arbeiten um über die Runden zu kommen, im Kindergarten sind die Kinder auch eher einsam, da sich die Betreuer meist nur um die vorlauten Kinden kümmert. Wie auch immer, dort sinf zu viele Kinder und zu wenig Betreuer.
+Für so ein kleines Wesen ist ein Kuscheltier sehr wichtig. Die Eltern müssen heutzutage beide arbeiten um über die Runden zu kommen, im Kindergarten sind die Kinder auch eher einsam, da sich die Betreuer meist nur um die vorlauten Kinden kümmert. Wie auch immer, dort sind zu viele Kinder und zu wenig Betreuer.
 Diesem Kuscheltier können die Kinden ihre bedingungslose Liebe schenken.  
 Ein Kuscheltier meckert nicht mit ihnen.  
 Ein Kuscheltiert gibt Schutz und Geborgenheit.
@@ -23,3 +27,6 @@ Hier können die Kinder sich melden und ihr Leid jemandem mitteilen.
 
 Auf der anderen Seite werden dann Freiwillige diese Mitteilungen beantworten.  
 Die Webseite kann dann auch Anlaufstellen pro Stadt auflisten, wo das Kind ein neues Kuscheltier bekommen kann.
+
+
+
