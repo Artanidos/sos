@@ -1,7 +1,7 @@
 # SOS Kuscheltier in Not
 Ein guter Freund gab mir die Idee für dieses Projekt, das ich nun umsetzen möchte.
 
-![Toy](../project/toy.png "Toy")
+![Toy](../images/toy.png "Toy")
 # Motivation
 Was ist das schlimmste, was einer Mutter passieren kann?
 Das Kind ist verschwunden und die Mutter kann es nicht wiederfinden.
